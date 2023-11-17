@@ -1,7 +1,7 @@
 # Develop-BEP-Calculator
 
 # BEP & RAB Kalkulator
-The Most Powerful BEP Calculator in the history of SMKN3 Jombang!
+The Most Powerful BEP Calculator
 
 How To Install All Dependencies
 ```node
